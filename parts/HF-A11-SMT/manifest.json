@@ -1,0 +1,17 @@
+{
+  "id": "RF_WiFi/HF-A11-SMT:HF-A11-SMT",
+  "name": "HF-A11-SMT",
+  "library": "RF_WiFi",
+  "file": "RF_WiFi.kicad_symdir/HF-A11-SMT.kicad_sym",
+  "description": "WiFi IEEE802.11b/g/n with Ethernet Module, UART, GPIO",
+  "datasheet": "http://www.hi-flying.com/index.php?route=tool/upload/download&code=190ec6c62d497905ed783d140f8e5af7a753b8ab",
+  "keywords": "WiFi IEEE802.11 b/g/n",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-wifi@master/parts/HF-A11-SMT/",
+  "part_path": "parts/HF-A11-SMT",
+  "symbol_file": "parts/HF-A11-SMT/HF-A11-SMT.kicad_sym",
+  "source_library": "RF_WiFi.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:38.754Z"
+}
